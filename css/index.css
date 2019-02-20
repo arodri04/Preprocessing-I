@@ -257,3 +257,12 @@ body .work p {
     display: none;
   }
 }
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+footer p {
+  margin-right: 50px;
+}
